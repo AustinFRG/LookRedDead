@@ -1,0 +1,6 @@
+name: LookRedDead
+version: ${project.version}
+main: me.austinfrg.lookreddead.LookRedDead
+api-version: 1.13
+authors: [AustinFRG]
+description: A basic plugin that kills you if you look at any block that has red.
